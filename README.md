@@ -1,5 +1,5 @@
 # Audio-Synthesis-with-Python
-Awesome way to record and  process audio in Python
+## Awesome way to record and  process audio in Python
 
 ![readme thumbnail](https://github.com/ian-mboya/Audio-Synthesis-with-Python/assets/68651784/fa141de4-abde-4e11-801b-dfdcf4796096)
 
@@ -16,10 +16,10 @@ This project was inspired by freecodecamp and Assembly Ai and I thought it would
 # First Things First
 ## Install the Necessary Libraries
 
-'''
+```
 $ pip install pyaudio
 $ pip install matplotlib
-'''
+```
 
 
 
