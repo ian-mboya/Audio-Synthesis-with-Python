@@ -13,7 +13,7 @@ Matplot is the tool that turns our audio output into a graphicall representation
 This project was inspired by freecodecamp and Assembly Ai and I thought it would inspire others as well.
 
 
-#First Things First
+# First Things First
 Install the Necessary Libraries
 
 
