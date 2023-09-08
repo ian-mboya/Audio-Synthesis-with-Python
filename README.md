@@ -16,6 +16,10 @@ This project was inspired by freecodecamp and Assembly Ai and I thought it would
 # First Things First
 ## Setup
 
+We will need to activate our Python Virtual environment.
+If you are using Visual Studio Code, it is simple.
+
+
 ```
 $ pip install pyaudio
 
