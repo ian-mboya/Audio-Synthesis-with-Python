@@ -18,6 +18,7 @@ This project was inspired by freecodecamp and Assembly Ai and I thought it would
 
 ```
 $ pip install pyaudio
+
 $ pip install matplotlib
 ```
 
