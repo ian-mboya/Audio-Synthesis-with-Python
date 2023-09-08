@@ -18,6 +18,14 @@ This project was inspired by freecodecamp and Assembly Ai and I thought it would
 
 We will need to activate our Python Virtual environment.
 If you are using Visual Studio Code, it is simple.
+For this to work, you need to have Python extension installed on Visual Studio Code.
+
+![image](https://github.com/ian-mboya/Audio-Synthesis-with-Python/assets/68651784/1a802f27-db2b-4aed-95e1-7bb48d0da516)
+
+The next step is to activate our Virtual Environment which will allows us to install the packages we need for the project.
+To activate the virtual environment press ctrl+shift+p to open the command pallete.
+
+
 
 
 ```
