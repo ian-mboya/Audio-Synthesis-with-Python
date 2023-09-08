@@ -25,6 +25,15 @@ For this to work, you need to have Python extension installed on Visual Studio C
 The next step is to activate our Virtual Environment which will allows us to install the packages we need for the project.
 To activate the virtual environment press ctrl+shift+p to open the command pallete.
 
+![image](https://github.com/ian-mboya/Audio-Synthesis-with-Python/assets/68651784/339b7e36-a8df-46e3-a5af-1d78a7763566)
+
+In the next step, select your environment type.
+In our case we will select Venv instead of conda.
+
+![image](https://github.com/ian-mboya/Audio-Synthesis-with-Python/assets/68651784/a993970e-9c5a-4b98-ad0e-df3afc7d04db)
+
+
+
 
 
 
