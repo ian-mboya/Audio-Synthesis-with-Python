@@ -15,6 +15,7 @@ This project was inspired by freecodecamp and Assembly Ai and I thought it would
 
 # First Things First
 ## Install the Necessary Libraries
+
 '''
 $ pip install pyaudio
 $ pip install matplotlib
