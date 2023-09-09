@@ -40,17 +40,25 @@ After selecting the desired interpreter or Python version, a notification will s
 
 ![image](https://github.com/ian-mboya/Audio-Synthesis-with-Python/assets/68651784/20b9af7c-8540-4c8b-95e8-3656cf722192)
 
+To activate your virtual environment, Head over the primary sidebar on VsCode. Locate the .Venv directory on the Explorer Window.
 
+![image](https://github.com/ian-mboya/Audio-Synthesis-with-Python/assets/68651784/57a3504d-db3f-476f-aa6d-d84de4df9b13)
 
+Next locate the Scripts directory and click on Activate.ps1 powershell script
 
+![image](https://github.com/ian-mboya/Audio-Synthesis-with-Python/assets/68651784/5ffa8a5e-3ea1-4d18-ab7f-6353fffc6ea0)
 
+The powershell script activates python virtual environment.
+You should see this on your terminal to notify you that virtual environment has activated.
+![image](https://github.com/ian-mboya/Audio-Synthesis-with-Python/assets/68651784/6c885df5-ff65-4bcd-a275-e7e011eaf771)
 
-
+The green (venv) indicator shows that your environment has been activated and now we can install the necessary libraries.
+Run the following commands to install the python libraries for this project.
 
 
 ```
 $ pip install pyaudio
-
+$ pip install numpy
 $ pip install matplotlib
 ```
 
