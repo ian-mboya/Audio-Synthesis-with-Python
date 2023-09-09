@@ -6,7 +6,7 @@
 
 
 Recording audio and plotting it's attributes graphically is as easy as it comes. In this project, I demonstrate how to use PyAudio, Python's cross platform I/O library that gives you the ability to record and play audio.
-Matplot is the tool that turns our audio output into a graphicall representation.
+Matplot is the tool that turns our audio output into a graphical representation.
 
 
 
@@ -17,12 +17,13 @@ This project was inspired by freecodecamp and Assembly Ai and I thought it would
 * Numpy
 * Pyaudio
 * Matplotlib
+* Visual Studio Code (Vscode)
 
 
 ## Setup
 
 We will need to activate our Python Virtual environment.
-If you are using Visual Studio Code, it is simple.
+If you have Visual Studio Code installed, it is simple.
 For this to work, you need to have Python extension installed on Visual Studio Code.
 
 ![image](https://github.com/ian-mboya/Audio-Synthesis-with-Python/assets/68651784/1a802f27-db2b-4aed-95e1-7bb48d0da516)
