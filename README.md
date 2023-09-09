@@ -12,8 +12,13 @@ Matplot is the tool that turns our audio output into a graphicall representation
 
 This project was inspired by freecodecamp and Assembly Ai and I thought it would inspire others as well.
 
+## Requirements
+* Python version 3.7+
+* Numpy
+* Pyaudio
+* Matplotlib
 
-# First Things First
+
 ## Setup
 
 We will need to activate our Python Virtual environment.
