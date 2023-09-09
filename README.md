@@ -28,9 +28,20 @@ To activate the virtual environment press ctrl+shift+p to open the command palle
 ![image](https://github.com/ian-mboya/Audio-Synthesis-with-Python/assets/68651784/339b7e36-a8df-46e3-a5af-1d78a7763566)
 
 In the next step, select your environment type.
-In our case we will select Venv instead of conda.
+In our case we will select Venv instead of Conda.
 
 ![image](https://github.com/ian-mboya/Audio-Synthesis-with-Python/assets/68651784/a993970e-9c5a-4b98-ad0e-df3afc7d04db)
+
+Next we need to select the Pyhon interpreter.
+
+![image](https://github.com/ian-mboya/Audio-Synthesis-with-Python/assets/68651784/1ca98af3-8236-467a-ba34-4db3b1114f60)
+
+After selecting the desired interpreter or Python version, a notification will show the progress of the environment creation and the environment folder will appear in your workspace.
+
+![image](https://github.com/ian-mboya/Audio-Synthesis-with-Python/assets/68651784/20b9af7c-8540-4c8b-95e8-3656cf722192)
+
+
+
 
 
 
