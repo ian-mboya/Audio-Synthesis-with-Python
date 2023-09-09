@@ -61,6 +61,8 @@ $ pip install pyaudio
 $ pip install numpy
 $ pip install matplotlib
 ```
+Your installation should be successful and now we can dive into the project.
+
 
 
 
